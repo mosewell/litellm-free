@@ -1,0 +1,9 @@
+__pycache__/
+.devcontainer/
+.vscode/
+
+data/config.yaml
+data/models_cache.json
+data/providers.json
+
+.env
