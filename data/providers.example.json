@@ -5,8 +5,7 @@
       "base_url": "https://openrouter.ai/api/v1",
       "api_key": "sk-or-xxxx",
       "model_name_prefix": "openrouter/",
-      "model_path_prefix": "openrouter/",
-      "model_filter": {"suffix": ":free"}
+      "model_path_prefix": "openrouter/"
     },
     {
       "name": "groq",
